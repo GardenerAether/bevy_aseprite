@@ -1,6 +1,6 @@
 # Bevy Aseprite Parser and Loader
 
-This is a fork of TheNeikos/bevy_spicy_aseprite.
+This is a fork of mdenchev/bevy_aseprite, which is itself a fork of TheNeikos/bevy_spicy_aseprite.
 
 Add `bevy_aseprite = "0.12"` to your Cargo.toml.
 
